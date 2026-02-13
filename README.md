@@ -193,5 +193,5 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-Your Name  
-GitHub: https://github.com/your-username
+TANISHQ PAL
+GitHub: https://github.com/TAQNK
